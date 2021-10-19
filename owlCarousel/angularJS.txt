@@ -1,0 +1,34 @@
+Modules: 
+Components:
+
+
+To-do list: take bootstrap cdn from website. install this tool (Augury).
+replication of title
+*ngFor="let item of todos"
+String interpulation  ofr print out
+
+Event Binding: 
+Javascript onlick="document.getElementById("")"
+Angular (click)="save()"
+Template reference binding
+   //        //      
+for adding  
+this.todos.push(todoText.value)
+todoText.value='';
+// // // // // /// // 
+for cross button catch event ()="";
+Index 
+this.todos.splice(index,1);
+//     //      //     //
+
+Topics:-
+You should know these following in Angular:-
+-Components
+-Data binding
+-Component Communication
+-Routing
+-Services
+-Modules
+-Http Client
+-Guards and Intercepters
+-Pipes
