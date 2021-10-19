@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css?family=Spirax');
+.top-bar .top-bar-left {
+    float: left;
+    text-align: left;
+    width: 85%;
+    position: relative;
+}
+.fa {
+    padding: 0px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px 3px;
+  }
+  .fa:hover {
+    opacity: 0.7;
+}
+
+
+/* drop down menu starts */
+.dropdown-menu li a{
+    border-radius: 12%;
+    color: #a2f1f1;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+/* drop down menu ends */
+
+/* latest news */
+.carousel-control{
+    background: #666;
+    border: 0px;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 34px;
+    font-weight: 200;
+    line-height: 18px;
+    opacity: 0.5;
+    padding: 4px 10px 0px;
+    position: static;
+    height: 30px;
+    width: 15px;
+}
+/* latest News */
+.thumbnails a img{
+    height: 158px;
+    width: 234px;
+}
+
+/* body{
+    background-color: rgb(168, 236, 233);
+} */
+/* welcome text css! */
+.container h2{
+    font-size: 30px;
+    font-family:'Abril Fatface', cursive;
+}
+.container p{
+    font-size: 22px;
+    font-family:'Port Lligat Slab', serif;
+}
+/* welcome text css ends here upside! */
+.header-section{
+    background-color:rgba(105, 194, 194, 0.7);
+    padding-top: 19px;
+    padding-bottom: 0px;
+    /* margin-left: 12px;
+    margin-right: 12px; */
+    width: 100%;
+    position: relative;
+    font-size: 19px;
+}
+.products{
+    background-color: rgb(226, 235, 238);
+    /* color: blue; */
+}
+/* this is for slider navigation */
+/* .houzez-module .module-title-nav .module-nav{
+    vertical-align: bottom;
+    text-align: right;
+    margin: 0px;
+    padding: 2%;
+}
+.houzez-module .module-title-nav .module-nav div{
+    display: table-cell;
+}
+.houzez-module .module-title-nav .module-nav .btn{
+    color:red;
+    border:1px solid red ;
+    background-color: transparent;
+    font-size: 10px;
+} */
+/* .carousel-image{
+    width: 120px;
+    height: 120px;
+} */
+.slidepic{
+    width: 250px;
+    height: 350px;
+}
+/* Slider navigations end!!  */
+.navbar-header a{
+    font-size: 29px;
+    font-family: 'Spirax', cursive;
+}
+.navbar{
+    background-color: transparent;
+    border: none;
+    padding-left:inherit;
+    padding-right: inherit;
+}
+.wrapper h2{
+    text-align: center;
+}
+.wrapper .btn button{
+    text-align: center;
+}
+
+
+/* home-contact */
+.home-contact{
+    padding-bottom: 10px;
+    margin-top: 15px;
+}
+.form-area{
+    display: block;
+    margin: 2px;
+}
+*{
+    margin:0;
+    padding: 0;
+}
+
+/* scrollTop button css */
+/* #myBtn{
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: black;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+} */
+/* #myBtn:hover{
+    background-color: #fff;
+} */
